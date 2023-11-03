@@ -1,22 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to Hit Subscribe's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+[Hit Subscribe](https://hitsubscribe.com/) is a content agency specializing in content for and by developers.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+## Our Projects
+- [Airtable Script](https://github.com/hit-subscribe/airtable-scripts): Custom Airtable scripts
+- [HS Tools](https://github.com/hit-subscribe/hs-tools): Our tool for SEO monitoring
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+## Links
+- [Zilliz](https://zilliz.com/)
