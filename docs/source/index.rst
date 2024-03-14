@@ -8,7 +8,7 @@ Our Projects
 =================
 
 - `Airtable Scripts <https://github.com/hit-subscribe/airtable-scripts>`_: Custom Airtable scripts
-- `HS Tools <https://github.com/hit-subscribe/hs-tools`_: Our tool for SEO monitoring
+- `HS Tools <https://github.com/hit-subscribe/hs-tools>`_: Our tool for SEO monitoring
 
 =================
 Links
