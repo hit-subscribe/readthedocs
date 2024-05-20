@@ -17,3 +17,4 @@ Links
 - `Zilliz <https://zilliz.com/>`_
 - `Enov8 <https://www.enov8.com/>`_
 - `CSuite Content <https://csuitecontent.com/>`_
+- `Testim <https://www.testim.io/>`_
