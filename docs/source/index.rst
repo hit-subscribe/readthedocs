@@ -14,8 +14,15 @@ Our Projects
 Links
 =================
 
-- `Zilliz <https://zilliz.com/>`_
-- `Enov8 <https://www.enov8.com/>`_
+- `Acronis <https://www.acronis.com/>`_
+- `Autify <https://autify.com/>`_
+- `BlinkOps <https://www.blinkops.com/>`_
 - `CSuite Content <https://csuitecontent.com/>`_
+- `Enov8 <https://www.enov8.com/>`_ 
+- `Influx Data <https://www.influxdata.com/>`_
+- `Netbox Labs <https://netboxlabs.com/>`_
+- `Sawmills <https://www.sawmills.ai/>`_
+- `Spin.ai <https://spin.ai/>`_
 - `Testim <https://www.testim.io/>`_
 - `Tricentis <https://www.tricentis.com/>`_
+- `Zilliz <https://zilliz.com/>`_
