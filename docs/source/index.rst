@@ -94,6 +94,8 @@ Tricentis
 - `SAP Cloud Migration Testing <https://www.tricentis.com/sap/migrating-to-s-4hana>`_
 - `SAP Cloud Migration <https://www.tricentis.com/sap/moving-sap-workloads-to-the-cloud>`_
 - `AI Test Automation Solutions <https://www.tricentis.com/solutions/ai-powered-solutions>`_
+- `Micro Focus Migration <https://www.tricentis.com/solutions/hp-micro-focus-migration>`_
+- `Cloud Migration <https://www.tricentis.com/solutions/cloud-migration>`_
 - `Oracle Fusion Testing <https://www.tricentis.com/solutions/oracle-testing/cloud-fusion>`_
 - `Oracle EBS Automation <https://www.tricentis.com/solutions/oracle-testing/ebs>`_
 - `Oracle Testing <https://www.tricentis.com/solutions/oracle-testing>`_
