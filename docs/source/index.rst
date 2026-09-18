@@ -76,7 +76,49 @@ Sawmills
 
 Spin.ai
 -------
-`Spin.ai <https://spin.ai/>`_ provides SaaS data protection, ransomware detection, and risk management for Google Workspace and Microsoft 365 environments.
+`Spin.ai <https://spin.ai/>`_ is a SaaS security company whose SpinOne platform combines backup and recovery, ransomware protection, data loss prevention, and security posture management across Google Workspace, Microsoft 365, Salesforce, and Slack.
+
+- `SpinOne Platform <https://spin.ai/platform/spinone>`_
+- `SaaS Backup & Recovery (SpinBackup) <https://spin.ai/platform/backup-and-recovery>`_
+- `Ransomware Protection (SpinRDR) <https://spin.ai/platform/ransomware-protection>`_
+- `SaaS Security Posture Management (SpinSPM) <https://spin.ai/platform/saas-security-posture-management>`_
+- `SaaS Data Security Posture Management (DSPM) <https://spin.ai/platform/dspm>`_
+- `Data Loss Prevention (DLP) <https://spin.ai/platform/dlp>`_
+- `eDiscovery <https://spin.ai/platform/ediscovery>`_
+- `Enterprise Archiving <https://spin.ai/platform/enterprise-archiving-solution>`_
+- `Enterprise Browser Security (SpinCRX) <https://spin.ai/platform/enterprise-browser-security>`_
+- `Command Center for Jira <https://spin.ai/platform/jira>`_
+- `Command Center for Confluence <https://spin.ai/platform/confluence>`_
+- `Google Workspace Data Protection <https://spin.ai/platform/google-workspace>`_
+
+  - `Backup & Recovery <https://spin.ai/platform/google-workspace/backup-and-recovery>`_
+  - `Calendar Backup <https://spin.ai/platform/google-workspace/backup-and-recovery/calendar>`_
+  - `Contacts Backup <https://spin.ai/platform/google-workspace/backup-and-recovery/contacts>`_
+  - `Drive Backup <https://spin.ai/platform/google-workspace/backup-and-recovery/drive>`_
+  - `Shared Drive Backup <https://spin.ai/platform/google-workspace/backup-and-recovery/shared-drive>`_
+
+- `Microsoft 365 Data Protection <https://spin.ai/platform/microsoft-office-365>`_
+
+  - `Backup & Recovery <https://spin.ai/platform/microsoft-office-365/backup-and-recovery>`_
+  - `SaaS Security Posture Management <https://spin.ai/platform/microsoft-office-365/apps-security>`_
+  - `Data Loss Prevention <https://spin.ai/platform/microsoft-office-365/data-leak-prevention>`_
+  - `Ransomware Protection <https://spin.ai/platform/microsoft-office-365/ransomware-protection>`_
+  - `Calendar Backup <https://spin.ai/platform/microsoft-office-365/backup-and-recovery/calendar>`_
+  - `OneDrive Backup <https://spin.ai/platform/microsoft-office-365/backup-and-recovery/one-drive>`_
+  - `Outlook Email Backup <https://spin.ai/platform/microsoft-office-365/backup-and-recovery/outlook>`_
+  - `Outlook People Backup <https://spin.ai/platform/microsoft-office-365/backup-and-recovery/outlook-people>`_
+  - `SharePoint Backup <https://spin.ai/platform/microsoft-office-365/backup-and-recovery/sharepoint>`_
+  - `Teams Backup <https://spin.ai/platform/microsoft-office-365/backup-and-recovery/teams>`_
+
+- `Salesforce Data Protection <https://spin.ai/platform/salesforce>`_
+
+  - `Backup & Recovery <https://spin.ai/platform/salesforce/backup-and-recovery>`_
+  - `SaaS Security Posture Management <https://spin.ai/platform/salesforce/apps-security>`_
+
+- `Slack Data Protection <https://spin.ai/platform/slack>`_
+
+  - `Backup & Recovery <https://spin.ai/platform/slack/backup-and-recovery>`_
+  - `SaaS Security Posture Management <https://spin.ai/platform/slack/apps-security>`_
 
 Testim
 ------
@@ -124,6 +166,19 @@ Workato
 - `AI Workflows <https://www.workato.com/platform/ai-by-workato>`_
 - `AIRO, AI CoPilot <https://www.workato.com/platform/copilots>`_
 - `Low Code Workflow Apps <https://www.workato.com/platform/workflow-apps>`_
+
+Wrangle
+-------
+`Wrangle <https://www.wrangle.io/>`_ is an AI-powered ticketing and workflow platform built into Slack and Microsoft Teams, giving teams a modern help desk for both internal and external support without leaving their chat tool.
+
+- `Agentic AI <https://www.wrangle.io/agentic-ai>`_
+- `Internal Helpdesk <https://www.wrangle.io/internal-ticketing>`_
+- `External Customer Ticketing <https://www.wrangle.io/external-ticketing>`_
+- `IT Help Desk <https://www.wrangle.io/wrangle-for-it>`_
+- `Human Resources <https://www.wrangle.io/wrangle-for-hr>`_
+- `Customer Support <https://www.wrangle.io/wrangle-for-cx>`_
+- `Integrations <https://www.wrangle.io/integrations>`_
+- `Zendesk Integration <https://www.wrangle.io/wrangle-for-zendesk>`_
 
 Zilliz
 ------
